@@ -1,7 +1,7 @@
 ---
 name: Stefanie Davis
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: Senior Data Engineer
 company: Stanford University
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
