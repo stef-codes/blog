@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Stefanie Davis',
   author: 'Stefanie Davis',
   headerTitle: 'Stefanie Davis',
-  description: 'Stefanie Davis Blog that showcases technical thoughts and musings',
+  description: 'My technical thoughts and musings',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
